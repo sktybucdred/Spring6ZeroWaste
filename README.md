@@ -43,10 +43,12 @@ o Wykorzystanie technologii front-end w celu stworzenia interfejsu użytkownika.
 Dostęp do biblioteki artykułów oraz porad jest dostępny dla wszystkich zalogowanych użytkowników
 
 
-Użytkownik może przeglądać i filtrować artykuły i porady według kategorii
-
+Użytkownik może przeglądać i filtrować artykuły i porady według kategorii, tytułu lub tagów.
 
 Użytkownik może dodać artykuł lub poradę do ulubionych jednym kliknięciem
 
-
 Polubione artykuły i porady są łatwo dostępne z poziomu profilu użytkownika
+
+Zaimplementowanie uniwersalnych tagów
+
+
